@@ -1,10 +1,8 @@
-**Matvey Dolzhenkov**
+**This is a my page.**
 
-This is a my page.
+**Backend developer on Python and Go.**
 
-Backend developer on Python and Go.
-
-* Stack:
+**Stack:**
 
 #. Python.
 #. Go.
@@ -13,6 +11,6 @@ Backend developer on Python and Go.
 #. Linux
 #. Grafana
 
-* Location: St-Petersburg
+**Location:** St-Petersburg
 
-* Age: 20
+**Age:** 20
