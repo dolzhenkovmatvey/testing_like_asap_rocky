@@ -1,11 +1,18 @@
-Welcome to Lumache's documentation!
-===================================
+**Matvey Dolzhenkov**
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers that
-creates recipes mixing random ingredients.  It pulls data from the `Open Food
-Facts database <https://world.openfoodfacts.org/>`_ and offers a *simple* and
-*intuitive* API.
+This is a my page.
 
-.. note::
+Backend developer on Python and Go.
 
-   This project is under active development.
+* Stack:
+
+#. Python.
+#. Go.
+#. Git.
+#. Docker.
+#. Linux
+#. Grafana
+
+* Location: St-Petersburg
+
+* Age: 20
